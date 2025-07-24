@@ -116,7 +116,7 @@ A diagram showing:
 
 1. Clone the repo
 2. Use Docker Compose or KIND (for local Kubernetes)
-3. Each service has a `README.md` under `/services/` with run commands
+3. Each service will have a `README.md` under `/services/` with run commands
 
 ---
 
